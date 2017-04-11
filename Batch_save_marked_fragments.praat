@@ -3,9 +3,7 @@
 # @description This script opens all audio files with the corresponding TextGrid. It calculates duration, pitch, intensity (minimum, maximum and mean) and the Formant numbers (f1, f2, f3, f4) of all labled triers. With a GUI you select the data points you are interested in!
 # @author Pol van Rijn
 # @credits Dan McCloy, Mietta Lennes and to all snippets taken from the web!
-# @version 0.01
-# @Changelog:
-# - Formant numbers implemented, not working properly
+# @version 0.02
 # This script is distributed under the GNU General Public License.
 ###############################################################################################
 
