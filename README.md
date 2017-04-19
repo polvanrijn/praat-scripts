@@ -3,7 +3,7 @@ All scripts are modified already existing scripts. Many of them were originally 
 
 ## Overview of scripts and modifications
 
-###Batch_GUI_Trier_Data.praat
+### Batch_GUI_Trier_Data.praat
 
 **Description:**
 
