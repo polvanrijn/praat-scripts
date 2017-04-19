@@ -1,12 +1,8 @@
-## @title:	text grid maker.praat
-## @author:	Katherine Crosswhite, modified by Mark Antoniou, Pol van Rijn
-
-## What does it do?
-## This script opens all files in a directory. It creates a TextGrid for each of sound file, then opens the sound file and the TextGrid into the editor so you can add boundaries and labels.
-
-##  Leaving the "Word" field blank will open all sound files in a directory. By specifying a Word, you can open only those files that begin with a particular sequence of characters. For example, only tokens whose filenames begin with ba.
-
-# The following four lines will create a dialog box, asking for the directory location you want to use. The two variables, Directory" and "Word" will be used later in the script, where they are referred to as "directory$" and "word$", the dollar sign indicating that they are both string variables.
+###############################################################################################
+# @title Open_all_TextGrids_to_Soundfiles.praat
+# @description This script opens all files in a directory. It creates a TextGrid for each of sound file, then opens the sound file and the TextGrid into the editor so you can add boundaries and labels.
+# @author Katherine Crosswhite, modified by Mark Antoniou, Pol van Rijn
+###############################################################################################
 
 form Enter directory and search string
 # Be sure not to forget the slash (Windows: backslash, OSX: forward slash)  at the end of the directory name.

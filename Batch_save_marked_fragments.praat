@@ -1,6 +1,6 @@
-###################################################################################################################################################
-# @name Batch save all marked soundfragments from TextGrids
-# @description This script opens all audio files with the corresponding TextGrid. It calculates duration, pitch, intensity (minimum, maximum and mean) and the Formant numbers (f1, f2, f3, f4) of all labled triers. With a GUI you select the data points you are interested in!
+###############################################################################################
+# @name Batch_save_marked_fragments.praat
+# @description This script opens all audio files within a directory and finds the corresponding TextGrid in another folder and generates a .wav file for each labeled TextGrid
 # @author Pol van Rijn
 # @credits Dan McCloy, Mietta Lennes and to all snippets taken from the web!
 # @version 0.02
