@@ -31,5 +31,5 @@ The script enables you to extract duration, pitch, intensity (minimum, maximum a
 The script generates a new TextGrid for each audio file and automatically loads new audio if your done with the transcription/cutting.
 
 **Modifications:**
-* Move audio files you are done with into a subfolder (so you can pick up your work easily if you were interrupted, because your project folder only contains the audio files you haven't been working on because of the feature)
+* Move audio files you are done with into a subfolder (so you can pick up your work easily if you were interrupted, because your project folder only contains the audio files you haven't been working on)
 * The ability to skip audio files within the GUI 
