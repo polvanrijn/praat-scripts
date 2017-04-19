@@ -4,7 +4,6 @@
 # @author Pol van Rijn
 # @credits Dan McCloy, Mietta Lennes and to all snippets taken from the web!
 # @version 0.02
-# This script is distributed under the GNU General Public License.
 ###############################################################################################
 
 form Set settings
